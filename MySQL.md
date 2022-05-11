@@ -102,23 +102,26 @@ database</p>
 </p>   
 <p>Ara procedirem a instalar el PhpSorm amb el toolbox i crear un nou projecte i accedim a l’apartat de database</p>
 <p align=center>
-<img align=center src=
+<img align=center src=https://user-images.githubusercontent.com/91154202/167901092-1f7837bc-e24b-469c-b7fa-2dad3a0b41a6.png>
 </p>     
-<p>Allí coma seguim la següent ruta DataSource/MySQL i la següent pestanya la qual és el configurador de MySQL</p>
+<p>Accedim a l'apartat que mostra la imatge i en aquesta pestanya que ens mostra és el configurador de MySQL</p>
 <p align=center>
-<img align=center src=
+<img align=center src=https://user-images.githubusercontent.com/91154202/167901850-52ac90c0-e0b9-4dbc-b1be-01fa4d0c259c.png>
 </p>    
+<p align=center>
+<img align=center src=https://user-images.githubusercontent.com/91154202/167902199-e961da6d-06c3-4405-988a-2d9d338a45e5.png>
+</p>         
 <p>Com és veu en la parti inferior de l’anterior imatge ens falten drivers, procedim a instalar-los amb la següent comanda <b>sudo apt-get install php7.4-mysql</b></p>
 <p align=center>
-<img align=center src=
+<img align=center src=https://user-images.githubusercontent.com/91154202/167902471-8719152c-4a6a-41dd-9bce-23171b07aa9f.png>
 </p>     
-<p>Tornem al Php i on posa user i password posem l’usuari i la contrasenya que hem trobat anteriorment i fem clic al botó de apply</p>
+<p>Tornem al Php, a la pestanya de la imatge antrior i fem clic en download, posteriorment on posa user i password posem l’usuari i la contrasenya que hem trobat anteriorment, <b>també on fica database, posem tasks, importan ja que en la imatge no esta</b> i fem clic al botó de apply</p>
 <p align=center>
-<img align=center src=
+<img align=center src=https://user-images.githubusercontent.com/91154202/167904968-cd073453-c301-4638-9b51-9f1ededdf50d.png>
 </p>    
 <p>Aquí veiem com se’ns té que mostra actualment el Php</p>
 <p align=center>
-<img align=center src=
+<img align=center src=https://user-images.githubusercontent.com/91154202/167905090-07d29654-5488-405d-aab0-72a1d11d9913.png>
 </p>     
 <p>Afgim la primera tasca amb clic dret i Add now, quan ja l'hem afegit fem clic en la fletxa verda per penjar-ho al servidor</p>
 <p align=center>
