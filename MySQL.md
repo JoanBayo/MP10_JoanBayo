@@ -1,2 +1,2 @@
-<h1>MySQL</h1>
+<h1 textAlign=center>MySQL</h1>
 
