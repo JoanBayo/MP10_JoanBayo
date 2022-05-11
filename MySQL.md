@@ -1,8 +1,11 @@
-<h1>MySQL</h1>
+<h1 align=center>MySQL</h1>
 <h3>Aquesta pràctica consisteix amb la instal·lació del sistema gestor de base de dades MySQL, per aconseguir això en aquest document mostrarem com fer-ho pas a pas:</h3>
 <img src=https://user-images.githubusercontent.com/91154202/167836669-538870f1-03fa-4913-9ac0-ff4799b5aa13.png>
+<img aling=center src=https://user-images.githubusercontent.com/91154202/167885932-38931a83-374f-4e0b-8b85-9410576e3f5c.png>
+
 
 <p>Primer comencem amb la instal·lació del MySQL server, per fer això requerirm de l'ús de la comanda <b>sudo apt-get install mysql,server</b> (en cas de que no us vagi feu primer un <b>sudo apt update</b>)</p>
+<
 <p>Després posarem mysql en el terminal i com és normal no ens deixa accedir amb el nostre usuari, anem a canviar això!</p>
 <p>Primer farem una cerca del port de MySQL per fer això necessitarem <b>nmap</b> per obtenir-lo utilitzarem la comanda <b>apt-get install nmap</b></p>
 <p>Un cop instal·lat el nmap l’utilitzarem per trobar el port del MySQL, com podem veure és el *******</p>
