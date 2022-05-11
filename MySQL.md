@@ -62,44 +62,44 @@
      
 <p>Quan ens trobem dins descarreguem el següent fitxer</p>
 <p align=center>
-<img align=center src=
+<img align=center src=https://user-images.githubusercontent.com/91154202/167897817-ed2d827e-94e4-4c81-9891-4b9d71361cba.png>
 </p>
-<p>Situats al terminal ens desplacem al directori Baixades i comprovem la existencia del paquet descarregat amb un <b>ls | grep mysql</b></p>
-<p align=center>
-<img align=center src=
-</p>     
+
+<p>Situats al terminal ens desplacem al directori Baixades i comprovem la existencia del paquet descarregat amb un <b>ls | grep mysql</b></p>  
 <p>Amb <b>dpkg -i + “ElPaquetDescarregat”</b> l'instal·lem:</p>
 <p align=center>
-<img align=center src=
+<img align=center src=https://user-images.githubusercontent.com/91154202/167898053-a330a114-689f-4bf1-8a2a-c16b2f31d4b0.png)>
 </p>     
 <p>Abans d'instal·lar-lo necessitem el mysql-workbench-community i procedim a instalarlo amb <b>mysql-workbench-community</b></p>
 <p align=center>
-<img align=center src=
+<img align=center src=https://user-images.githubusercontent.com/91154202/167898249-081a9aa1-d091-4f0a-9667-77af436dd1be.png>
 </p>     
 <p>Ens dona un error i primerament instal·lem <b>apt --fix-broken install</b></p>
 <p align=center>
-<img align=center src=
+<img align=center src=https://user-images.githubusercontent.com/91154202/167898534-a82f3e82-82fb-4586-a216-4806d0e7385d.png>
 </p>     
 <p>Per acabar fiquem la següent comanda per acabar de instalar-ho tot <b>sudo apt-get install libopengl0 libpcrecpp0v5 libproj15 libzip5</b></p>
 <p align=center>
-<img align=center src=
+<img align=center src=https://user-images.githubusercontent.com/91154202/167898675-5060afd7-4945-48a5-8e20-f4ebe9395a08.png>
+<img src=https://user-images.githubusercontent.com/91154202/167898889-91553409-e9af-49f3-b6ac-63f792abd854.png>
 </p>     
-<p>Un cop solucionat tots els problemes i instal·lar-ho tot passem al següent pas:</p>
-<p align=center>
-<img align=center src=
-</p>     
+<p>Un cop solucionat tots els problemes i instal·lar-ho tot passem al següent pas:</p>  
 <p>Posem la comanda <b>/usr/bin/mysql-workbench</b> per tal de executar el workbench i obrir la següent pestanya: </p>
 <p align=center>
-<img align=center src=
+<img align=center src=https://user-images.githubusercontent.com/91154202/167898978-1acdda55-6b18-456f-9c28-c1dac7e09108.png>
 </p>     
 <p>No ens deixa accedir ja que l’usuari no és el correcte, per tal de soluciona-ho, editem la connexió posant l’usuari i la contrasenya adequats, i son els que hem vist en apartats anteriors</p>
 <p align=center>
-<img align=center src=
-</p>     
-<p>Un cop solucionat aquest problema obrim i trobem la base de dades creada, i al fer click sobre ella es mostra el següent text: </p>
+<img align=center src=https://user-images.githubusercontent.com/91154202/167899066-2f5474ad-3a6f-45ad-9669-6c05578b7f81.png>
+</p>   
 <p align=center>
-<img align=center src=
-</p>     
+<img align=center src=https://user-images.githubusercontent.com/91154202/167899494-94a1667e-2417-4aba-b408-7ef9648f98a9.png>
+</p>   
+<p>Un cop solucionat aquest problema obrim i trobem la base de dades creada, i al fer click sobre ella i escrivim <b>SELECT * FROM tasks.tasks</b> mostra el següent text, demostran que esta buida: </p>  
+database</p>
+<p align=center>
+<img align=center src=https://user-images.githubusercontent.com/91154202/167899857-c5f9a1a3-3396-4648-8cc0-ea3cc69ef716.png>
+</p>   
 <p>Ara procedirem a instalar el PhpSorm amb el toolbox i crear un nou projecte i accedim a l’apartat de database</p>
 <p align=center>
 <img align=center src=
