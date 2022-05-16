@@ -117,7 +117,7 @@ database</p>
 </p>     
 <p>Tornem al Php, a la pestanya de la imatge antrior i fem clic en download, posteriorment on posa user i password posem l’usuari i la contrasenya que hem trobat anteriorment, <b>també on fica database, posem tasks, importan ja que en la imatge no esta</b> i fem clic al botó de apply</p>
 <p align=center>
-<img align=center src=https://user-images.githubusercontent.com/91154202/167904968-cd073453-c301-4638-9b51-9f1ededdf50d.png>
+<img align=center src=https://user-images.githubusercontent.com/91154202/168545821-8f84c2c5-929b-4db8-bc83-24083497daaf.png>
 </p>    
 <p>Aquí veiem com se’ns té que mostra actualment el Php</p>
 <p align=center>
