@@ -17,7 +17,7 @@
 <img align=center src=https://user-images.githubusercontent.com/91154202/167885932-38931a83-374f-4e0b-8b85-9410576e3f5c.png>
 </p>
 
-<p>Un cop instal·lat el nmap l’utilitzarem per trobar el port del MySQL, com podem veure és el 3307/tcp open mysql</p>
+<p>Un cop instal·lat el nmap l’utilitzarem per trobar el port del MySQL, com podem veure és el 3306/tcp open mysql</p>
 
 <p align=center>
 <img align=center src=https://user-images.githubusercontent.com/91154202/167887324-55a5cf7b-b00e-4eb3-b03c-1db9cf45bb28.png>
