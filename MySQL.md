@@ -172,21 +172,22 @@ database</p>
 <p>Torno al terminal a la carpeta de PHP_PDO allí amb un ls ens mostra l'índex creat, llavors si fem <b>php index.php</b> ens mostra el text escrit</p>
 <p align=center>
 <img src=https://user-images.githubusercontent.com/91154202/169137727-a602c0cf-bf70-4f58-ad79-361b252aed38.png>
-
 </p> 
-<p>Si es vol es pot fer que ho retorni al servidor amb <b>-S localhost:8095 index.php</b></p>
+
+<p>Si es vol es pot fer que ho retorni al servidor amb <b>php -S localhost:3306 index.php</b>, quan executem aquesta comanda se'ns obrira un link al qual accedim fent Ctrl clic esquerre</p>
 <p align=center>
-<img src=
+<img src=https://user-images.githubusercontent.com/91154202/169138662-4f637c55-016d-4126-ad91-ef6b6ddaa72f.png>
 </p>
-<p>Per fer ho millor generar un codi més consisten en el index.php</p>
+<p>Per fer una altra prova generar un codi més consisten on escrivim la següent infomració:</p>
+<p>Per una banda ficarem tot això en el index.php</p>
 <p align=center>
-<img src=
+<img src=https://user-images.githubusercontent.com/91154202/169143449-90ef098d-08fb-45ee-afb5-e0ed62312e2b.png>
 </p>
-     
-<p>Generem el fitxer task.php creant-lo amb aquest petit fragment de codi</p>
+<p>I per l'altra crarem un petit fitxer nou anomenat Task.php on introduirem aquesta classe per tal de poder completar de fomra correcta el index.php</p>
 <p align=center>
-<img src=
+<img src=https://user-images.githubusercontent.com/91154202/169143499-4ddda2c6-aa9e-4423-8f64-e9edb35f0907.png>
+</p>
      
 <p>I tornem al terminal i tornem a executar  <b>php index.php</b>Per a que ens retorni el següent codi: </p>
 <p align=center>
-<img src=
+<img src=https://user-images.githubusercontent.com/91154202/169144856-33c95068-1a49-432b-afd4-06e58f05c005.png>
