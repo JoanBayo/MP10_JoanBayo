@@ -68,7 +68,7 @@
 <p>Situats al terminal ens desplacem al directori Baixades i comprovem la existencia del paquet descarregat amb un <b>ls | grep mysql</b></p>  
 <p>Amb <b>dpkg -i + “ElPaquetDescarregat”</b> l'instal·lem:</p>
 <p align=center>
-<img src=https://user-images.githubusercontent.com/91154202/167898053-a330a114-689f-4bf1-8a2a-c16b2f31d4b0.png)>
+<img src=https://user-images.githubusercontent.com/91154202/167898053-a330a114-689f-4bf1-8a2a-c16b2f31d4b0.png>
 </p>     
 <p>Abans d'instal·lar-lo necessitem el mysql-workbench-community i procedim a instalarlo amb <b>mysql-workbench-community</b></p>
 <p align=center>
@@ -155,6 +155,8 @@ database</p>
 <p>Accedim a la carpeta de phpstorm i amb <b>joe ~/.zshrc</b> obrim l’editor i escrivim la ruta en la que es trova la carpeta phpstorm en la part inferior del fitxer</p>
 <p align=center>
 <img src=https://user-images.githubusercontent.com/91154202/169125354-e2a1a5b5-ac8d-4505-8a3f-1f9f29750ad4.png>
+</p>  
+<p align=center>
 <img src=https://user-images.githubusercontent.com/91154202/169125725-1b90ab52-f07c-41f3-8dc9-663057bfd2e6.png>
 </p>   
 <p>Tornem a la carpeta PHP_PDO i executem <b>phpstorm .</b></p>
