@@ -146,6 +146,8 @@ database</p>
 <p>Se'ns obrira una nova pestanya i allí fem click en new folder per crear una nova carpeta la qual anomenarem phpstorm, la seleccionem en els Folders i finalment presionem  OK, tornem al Toolbox i fem clic en Apply</p>
 <p align=center>
 <img src=https://user-images.githubusercontent.com/91154202/169119606-a161caca-cf90-492e-9020-77efa6de84d7.png>
+</p> 
+<p align=center>
 <img src=https://user-images.githubusercontent.com/91154202/169119903-2a8ec550-a32b-46e8-9382-8ac645399e0e.png>
 </p>  
 <p>Accedim a la carpeta mitjançant el terminal i fem un ls i podem veure els següents executables:</p>
