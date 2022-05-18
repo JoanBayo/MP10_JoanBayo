@@ -161,17 +161,18 @@ database</p>
 <p align=center>
 <img src=https://user-images.githubusercontent.com/91154202/169134626-6cf447ab-ba8e-41c3-986f-17e033bf663e.png>
 </p>  
-<p>Automàticament quan entrem al phpstorm ens apareix una carpeta per obrir el PHP_PDO, l’obrim i creem un fitxer anomenat index.php </p>
+<p>Automàticament quan entrem al phpstorm ens apareix una carpeta per obrir el PHP_PDO, l’obrim i creem un fitxer anomenat <b>index.php</b> </p>
 <p align=center>
-<img src=
+<img src=https://user-images.githubusercontent.com/91154202/169135926-2b75a95d-b8d6-4a85-bff8-b07489ad4be8.png>
 </p>
 <p>Dintre del fitxer creat escrivim el següent</p>
 <p align=center>
-<img src=
+<img src=https://user-images.githubusercontent.com/91154202/169137836-6102cb3e-df23-4d29-9596-8967bfd10343.png>
 </p>    
 <p>Torno al terminal a la carpeta de PHP_PDO allí amb un ls ens mostra l'índex creat, llavors si fem <b>php index.php</b> ens mostra el text escrit</p>
 <p align=center>
-<img src=
+<img src=https://user-images.githubusercontent.com/91154202/169137727-a602c0cf-bf70-4f58-ad79-361b252aed38.png>
+
 </p> 
 <p>Si es vol es pot fer que ho retorni al servidor amb <b>-S localhost:8095 index.php</b></p>
 <p align=center>
